@@ -12,7 +12,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
           {/* Company Info */}
           <div>
-            <h3 className="text-2xl font-bold mb-4">DigitalX</h3>
+            <h3 className="text-2xl font-bold mb-4">DevoSpace</h3>
             <p className="text-white/80 mb-4">
               Transforming ideas into exceptional digital experiences. We're passionate about creating solutions that drive success.
             </p>

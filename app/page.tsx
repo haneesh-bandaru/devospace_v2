@@ -82,10 +82,10 @@ export default function Home() {
               Transforming ideas into exceptional digital experiences
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button size="lg" className="rounded-full bg-white text-primary hover:bg-white/90">
+              <Button size="lg" className="rounded-full bg-white text-black hover:bg-white/90">
                 Get Started <ChevronRight className="ml-2" />
               </Button>
-              <Button size="lg" variant="outline" className="rounded-full text-white border-white hover:bg-white/10">
+              <Button size="lg" variant="outline" className="rounded-full bg-white/9 border-white hover:bg-white/10">
                 View Our Work
               </Button>
             </div>
